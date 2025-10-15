@@ -1,0 +1,7 @@
+{
+  "access_key": "YOUR_AMAZON_PAAPI_ACCESS_KEY",
+  "secret_key": "YOUR_AMAZON_PAAPI_SECRET_KEY",
+  "partner_tag": "YOUR_ASSOCIATE_TAG",
+  "partner_type": "Associates",
+  "marketplace": "www.amazon.sa"
+}
